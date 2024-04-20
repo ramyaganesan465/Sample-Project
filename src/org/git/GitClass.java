@@ -18,7 +18,7 @@ public class GitClass {
 	 private void empEmail() {
 		 System.out.println("Employee emai is Boobalanvv@gmail.com");
 	 }
-	 private void empaddress() {
+	 private void studentAddress() {
 		 System.out.println("Employee address is salem");
 	 }
 	 private void studentName() {
@@ -32,7 +32,7 @@ public class GitClass {
 		 bv.empdob();
 		 bv.empphone();
 		 bv.empEmail();
-		 bv.empaddress();
+		 bv.studentAddress();
 	    
 	}
 		 
