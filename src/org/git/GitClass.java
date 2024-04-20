@@ -21,7 +21,9 @@ public class GitClass {
 	 private void empaddress() {
 		 System.out.println("Employee address is salem");
 	 }
-	  
+	  private void studentName() {
+		System.out.println("PRANAV");
+	}
 	 public static void main (String[] args) {
 		 GitClass bv=new GitClass();
 		 bv.empid();
@@ -30,8 +32,12 @@ public class GitClass {
 		 bv.empphone();
 		 bv.empEmail();
 		 bv.empaddress();
-	    
+	    bv.studentName();
 	}
+		 
+				 
+	 
+
 		 
 				 
 	 
