@@ -24,6 +24,9 @@ public class GitClass {
 	  private void studentName() {
 		System.out.println("PRANAV");
 	}
+	  private void stu() {
+		System.out.println("student Name");
+	}
 	 public static void main (String[] args) {
 		 GitClass bv=new GitClass();
 		 bv.empid();
@@ -33,6 +36,7 @@ public class GitClass {
 		 bv.empEmail();
 		 bv.empaddress();
 	    bv.studentName();
+	    bv.stu();
 	}
 		 
 				 
