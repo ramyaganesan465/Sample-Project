@@ -18,13 +18,12 @@ public class GitClass {
 	 private void empEmail() {
 		 System.out.println("Employee emai is Boobalanvv@gmail.com");
 	 }
-	 private void studentAddress() {
+	 private void empaddress() {
 		 System.out.println("Employee address is salem");
 	 }
-	 private void studentName() {
-		System.out.println("student name is SHAIPRANAV");
+	  private void studentName() {
+		System.out.println("PRANAV");
 	}
-	  
 	 public static void main (String[] args) {
 		 GitClass bv=new GitClass();
 		 bv.empid();
@@ -32,9 +31,13 @@ public class GitClass {
 		 bv.empdob();
 		 bv.empphone();
 		 bv.empEmail();
-		 bv.studentAddress();
-	    
+		 bv.empaddress();
+	    bv.studentName();
 	}
+		 
+				 
+	 
+
 		 
 				 
 	 
